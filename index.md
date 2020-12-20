@@ -1,10 +1,12 @@
+### About Aryn
 
+Hello! My name is Aryn Davis and I am a current senior at Columbia Univeristy studying Computer Science and Sociology.
 
-### Hello! My name is Aryn Davis and I am a current senior at Columbia Univeristy studying Computer Science and Sociology.
+<img src="images/headshot.png" alt="logo" class="center" style="margin-left: auto; margin-right: auto; width: 50%;">
 
 I am passionate about teaching and creating software for social good by properly considering the unintended negative impact of each product I take part in. I currently am Head Teach Assistant for [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode), a coding bootcamp for formerly incarcerated individuals in order to support them in obtaining stable careers in the tech industry. 
 
-#### Some of the projects I am working on:
+##### Some of the projects I am working on:
 
 - [plantParent](https://github.com/aryndavis/plantParent) is a tool to help you keep track of relevant care instructions for various plants by using HuggingFace's Bert Question and Answering Pipelines. 
 
